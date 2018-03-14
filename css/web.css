@@ -1,0 +1,22 @@
+body 
+{
+    /*background-color:#000000;*/
+}
+
+.back
+{
+    position:fixed;
+    width:100%;
+    
+    background:black;
+    z-index:9999;
+    padding:8px;
+    text-align:right;
+    bottom:0;
+    opacity:0.6;
+}
+
+button
+{
+  cursor:pointer; 
+}
